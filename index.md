@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+| 表頭1 | 表頭2 | 表頭3 |
+|-------|-------|-------|
+| 資料1 | 資料2 | 資料3 |
+| 資料4 | 資料5 | 資料6 |
+
 ```markdown
 Syntax highlighted code block
 
